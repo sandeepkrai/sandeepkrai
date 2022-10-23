@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sandeep-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-rai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sandeep-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-rai-263696232" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rai_sandeep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rai_sandeep" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sandeep_rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeep_rai" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sandeep_rai/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sandeep_rai/profile" height="30" width="40" /></a>

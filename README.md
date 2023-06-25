@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepkrai" alt="sandeepkrai" /></a> </p>
 
-- 🔭 I’m currently working on [Dronaid flutter App](https://github.com/sandeepkrai/Dronaid-App)
+- 🔭 I’m currently working as an Intern at Digital India Corporation
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Nest.js**
 
-- 💬 Ask me about **flutter**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **raisandeep.dev@gmail.com**
 

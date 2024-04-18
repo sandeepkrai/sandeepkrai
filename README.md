@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am a full-stack developer with experience in Web and Flutter app development.
 
+![](https://komarev.com/ghpvc/?username=sandeepkrai)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/i_m_s.rai/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rai-sandeep/) 

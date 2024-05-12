@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am a full-stack developer with experience in Web and Flutter app development.
+I am a computer and communication engineering learner, passionate about tech innovation and problem-solving.
+
+Successfully collaborated with industry giants like Intel Corporation and Digital India Corporation, contributing to impactful projects.
+
+I am keen on leveraging my technical prowess and a strong foundation in software engineering and agile methodologies to create impactful solutions. Thrive in competitive environments, securing first place in TAPMI's and eSamudaay's Hackathon and ranking in the top 6 in Manipal Hackathon (M#). Committed to continuous learning and future-ready innovations.
+
+I am actively seeking opportunities to expand my expertise further, contribute to cutting-edge projects, and drive technological advancements. Let's connect to explore collaborations and discuss the possibilities of impactful tech solutions together.
 
 ![](https://komarev.com/ghpvc/?username=sandeepkrai)
 
